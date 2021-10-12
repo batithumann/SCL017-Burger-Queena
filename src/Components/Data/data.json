@@ -1,0 +1,29 @@
+{ "breakfastInnit": [
+  ],
+    "breakfast": [
+      {
+        "item": "Café Americano",
+        "id": "1",
+        "price": 1900
+      },
+      {
+        "item": "Café c/ Leche",
+        "id": "2",
+        "price": 1900
+      },
+      {
+        "item": "Sandwich Aliado",
+        "id": "3",
+        "price": 2900
+      },
+      {
+        "item": "Jugo Natural",
+        "id": "4",
+        "price": 1490
+      }
+    ]
+}
+
+    
+  
+  
