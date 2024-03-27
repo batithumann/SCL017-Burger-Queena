@@ -11,7 +11,7 @@
 
 ***
 
-## 1. Preámbuloasdsadasdsadsadas
+## 1. Preámbuloaaaa
 
 [React](https://es.reactjs.org/) y [Angular](https://angular.io/)
 son algunos de los _frameworks_ y _librerías_ de JavaScript más utilizados por
